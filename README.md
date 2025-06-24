@@ -1,5 +1,5 @@
 
-### Welcome to Netflix( Movilens) ELT Pipeline
+### Welcome to Netflix( Movielens) ELT Pipeline
 This project demonstrates an end-to-end ELT (Extract, Load, Transform) pipeline using Azure Storage for raw data ingestion, Snowflake as the cloud data warehouse, and dbt for data transformations and data modeling and airflow for orchestration.
 
 ### 🏗️ Architecture Diagram
