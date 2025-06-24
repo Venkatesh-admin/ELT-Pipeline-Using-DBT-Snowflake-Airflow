@@ -60,7 +60,10 @@ dbt compile --select path:analyses/
 ```
 
 ### Airflow Sample pipeline
+
 Use SnowflakeOperator to copy data from the azure storage and DbtTaskGroup to execute dbt models
+
+
 ![alt text](assets/AIRFLOW.png)
 
 
